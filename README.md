@@ -10,3 +10,4 @@ SOS app, help girl from public bus bad
 
 ### TODO
 * play sound at 100% volume
+* man voices
