@@ -7,3 +7,6 @@ SOS app, help girl from public bus bad
 | App Link | https://girlsos.diewland.com , <a href='diewland://girlsos'>diewland://girlsos</a> |
 
 <img src='https://raw.githubusercontent.com/diewland/girl-public-bus-sos/master/qr.png'>
+
+### TODO
+* play sound at 100% volume
