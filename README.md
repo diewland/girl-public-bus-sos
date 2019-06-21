@@ -9,5 +9,4 @@ SOS app, help girl from public bus bad
 <img src='https://raw.githubusercontent.com/diewland/girl-public-bus-sos/master/qr.png'>
 
 ### TODO
-* play sound at 100% volume
-* man voices
+* man voices / whistle
